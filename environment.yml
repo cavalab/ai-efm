@@ -1,0 +1,21 @@
+name: mfm
+dependencies:
+  - pandas
+  - jupyter
+  - numpy
+  - seaborn
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pydot
+  - pqdm
+  - dask
+  - pyarrow
+  - fastparquet
+  - ipdb
+  - openpyxl
+  - nbstripout
+  - fire
+  - pip
+  - pip:
+    - wfdb
