@@ -1,0 +1,11 @@
+scikit-learn
+matplotlib
+seaborn
+pydot
+pqdm
+dask
+pandas-tfrecords
+pyarrow
+fastparquet
+ipdb
+tensorflow_addons

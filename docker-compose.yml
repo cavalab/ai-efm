@@ -1,0 +1,23 @@
+version: '3'
+
+services:
+  main:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        GID: 1000
+    env_file: mfm.env
+    user: "mfm:1000"
+    container_name: "mfm-${USER}"
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./:/tf/code
+      - ./data:/tf/data
+    network_mode: host
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
