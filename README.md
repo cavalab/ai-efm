@@ -82,5 +82,5 @@ python train_models.py run \
 
 # Acknowledgments
 
-Financial support: Women’s Reproductive Health Research grant 5 K12 HD 1265-22; T32- HD007440 
-Funding sources had no role in study design; in the collection, analysis, and interpretation of data; in the writing of the report; or in the decision to submit the article for publication.
+Financial support: Women’s Reproductive Health Research grant 5 K12 HD 1265-22; T32- HD007440; NICHD R01HD119210. 
+The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
