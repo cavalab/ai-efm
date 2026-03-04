@@ -2,6 +2,13 @@
 
 Deep learning models for predicting fetal distress from electronic fetal monitoring.
 
+If you use this repo, please cite: 
+
+Jennifer A. McCoy, Lisa D. Levine, Guangya Wan, Corey Chivers, Joseph Teel, William G. La Cava (2024).
+Intrapartum electronic fetal heart rate monitoring to predict acidemia at birth with the use of deep learning. 
+*American Journal of Obstetrics and Gynecology (AJOG)*
+ [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0002937824005283)  |  [PubMed](https://pubmed.ncbi.nlm.nih.gov/38663662/)  |  [pdf](https://cavalab.org/assets/papers/McCoy%20et%20al.%20-%202024%20-%20Intrapartum%20electronic%20fetal%20heart%20rate%20monitoring.pdf)
+
 # Contributors
 
 - Developed by William La Cava (@lacava), Jennifery McCoy, and Corey Chivers
